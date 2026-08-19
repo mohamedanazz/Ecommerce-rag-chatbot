@@ -1,4 +1,0 @@
-pypdf
-openai
-pinecone
-dotenv
